@@ -73,6 +73,9 @@ I'm **Tejas Dookhi**, a passionate Full Stack Developer specializing in the MERN
   <a href="https://www.codechef.com/users/code_tejas123" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+  <a href="https://github.com/Tejasdookhi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
