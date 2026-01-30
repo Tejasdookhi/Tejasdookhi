@@ -8,7 +8,7 @@
 
 I'm **Tejas Dookhi**, a passionate Full Stack Developer specializing in the MERN stack. I love building web applications that solve real-world problems and create meaningful user experiences.
 
-- 🌱 Currently Learning: **Database Management, Data Structures & Algorithms, Java**
+- 🌱 Currently Learning: **In depth Js, Database , Data Structures & Algorithms, Java**
 - 👯 Open to collaborate on: **Web Development Projects & Open Source**
 - 💬 Ask me about: **React, Node.js, MongoDB, Express**
 - 📫 Reach me at: tejaspawar8420@gmail.com
